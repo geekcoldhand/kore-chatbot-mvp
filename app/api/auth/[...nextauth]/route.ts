@@ -1,0 +1,1 @@
+export { authOptions as GET, authOptions as POST } from "../../../../lib/auth";
